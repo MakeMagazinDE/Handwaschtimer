@@ -8,7 +8,7 @@ Maker Media GmbH
 Kurzzeit-Timer aus Arduino Uno und dem Multi-Function-Shield
 
 ![Picture](https://github.com/MakeMagazinDE/Handwaschtimer
-/blob/master/Picture.jpg) 
+/blob/master/Timer.gif) 
 
 
 
